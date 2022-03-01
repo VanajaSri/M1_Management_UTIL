@@ -53,6 +53,7 @@ int main()
       exit(0);
     default:
       printf("\nBlunder!!!Try\n");
+        exit(0);
 
     }
   }
