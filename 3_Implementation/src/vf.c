@@ -1,12 +1,15 @@
 #include"inc.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
 
 int add_book(int i, struct library *l, int count)
 {
       printf("Enter book name = ");
-      scanf("%s", &l[i].bookname);
+      scanf("%29s", l[i].bookname);
 
       printf("Enter author name = ");
-      scanf("%s", &l[i].authorname);
+      scanf("%29s", l[i].authorname);
 
       printf("Enter pages = ");
       scanf("%d", &l[i].pages);
