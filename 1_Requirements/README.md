@@ -1,9 +1,9 @@
 
-*****Introduction*****
+# *****Introduction*****
 
-      # The main aim of the project is to maintain the recoed of books in library.
-      # A user with authoritive credentials can login to the management system and user can able to use all the features of the management system.
-      # Library is place where we see collections of books of different genre like 
+   * The main aim of the project is to maintain the recoed of books in library.
+   * A user with authoritive credentials can login to the management system and user can able to use all the features of the management system.
+   * Library is place where we see collections of books of different genre like 
        history,dictionary,novels,technology and others
   
 
