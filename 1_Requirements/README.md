@@ -7,57 +7,57 @@
        history,dictionary,novels,technology and others
   
 
-  *****SWOT ANALYSIS*****
+ # *****SWOT ANALYSIS*****
 
-     Strengths
-      
-         • Curiosity and need to learn
-         • Respected and valued by users
-         • Collections
-         • Drive to understand the perspective of user
-
-
-     Weaknesses
-         
-         • Lack fo funding
-         • Prioritization 
+  Strengths
+        
+     • Curiosity and need to learn
+     • Respected and valued by users
+     • Collections
+     • Drive to understand the perspective of user
 
 
-     Opportunuties
-
-         • Chance to advocate for digital privacy
-         • More inter-sectoral collaboration  
-
-
-     Threats
-
-         • Lack of strong professional body
-         • Replacement of staff by automated services    
+  Weaknesses
+           
+     • Lack fo funding
+     • Prioritization    
 
 
-*****4W's and 1'H*****
+  Opportunuties
+  
+     • Chance to advocate for digital privacy
+     • More inter-sectoral collaboration  
 
-     Why:
+
+  Threats
+  
+     • Lack of strong professional body
+     • Replacement of staff by automated services    
+
+
+# *****4W's and 1'H*****
+
+    Why:
     
          Helps to maintain the information of the book
 
-     What:
+    What:
 
          To implement system to add,search,view and update books record
 
-     When:
+    When:
 
          To reduce the manual work and save time
 
-     Where:
+    Where:
      
          At a place where there is a collection of different things in one place
 
-     How:
+    How:
 
          To build a system with all features required
 
- *****High Level Requirements*****
+ # *****High Level Requirements*****
 
      1.login to system
 
@@ -69,7 +69,7 @@
 
      5.Exit            
 
-*****Low Level Requirements****
+# *****Low Level Requirements****
 
      1.User Login to system
 
