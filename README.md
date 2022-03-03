@@ -9,3 +9,13 @@
 
 
 
+# **Folder Structure**
+|**FOLDER**  | **DESCRIPTION**  |
+|------------------|---------------------|
+ 0_certificate | screenshots of certificates obtained
+ 1_Requirements  | Documents detailing requirements and research
+ 2_Architecture  | Documents specifying dwsign details
+ 3_Implementation | All code and documentation
+ 4_TestPlanAndOutput| Documentation with test plan and procedures
+ 
+
