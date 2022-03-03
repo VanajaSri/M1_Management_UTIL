@@ -22,64 +22,62 @@
 
   Weaknesses
            
-     • Lack fo funding
-     • Prioritization    
-
+ • Lack fo funding
+ 
+ • Prioritization    
 
   Opportunuties
-  
-     • Chance to advocate for digital privacy
-     • More inter-sectoral collaboration  
+   
+ • Chance to advocate for digital privacy
+ 
+ • More inter-sectoral collaboration  
 
 
   Threats
   
-     • Lack of strong professional body
-     • Replacement of staff by automated services    
+ • Lack of strong professional body
+ 
+ • Replacement of staff by automated services    
 
 
 # *****4W's and 1'H*****
 
-    Why:
+Why:
     
-         Helps to maintain the information of the book
+   Helps to maintain the information of the book
+What:
 
-    What:
+   To implement system to add,search,view and update books record
+When:
 
-         To implement system to add,search,view and update books record
-
-    When:
-
-         To reduce the manual work and save time
-
-    Where:
+   To reduce the manual work and save time
+Where:
      
-         At a place where there is a collection of different things in one place
+    At a place where there is a collection of different things in one place
+How:
 
-    How:
-
-         To build a system with all features required
+   To build a system with all features required
 
  # *****High Level Requirements*****
 
-     1.login to system
+   1.login to system
 
-     2.View the menu
+   2.View the menu
      
-     3.Search books
+   3.Search books
 
-     4.Count books
+   4.Count books
 
-     5.Exit            
+   5.Exit            
 
-# *****Low Level Requirements****
+# ****Low Level Requirements****
 
-     1.User Login to system
+   1.User Login to system
 
-     2.User can add books to his choice
+   2.User can add books to his choice
 
-     3.User can search books by his choice
+   3.User can search books by his choice
 
-     4.User can count the number of books
+   4.User can count the number of books
 
-     5.Exit form the management 
+   5.Exit form the management 
