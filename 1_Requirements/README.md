@@ -45,15 +45,19 @@
 Why:
     
    Helps to maintain the information of the book
+   
 What:
 
-   To implement system to add,search,view and update books record
+  To implement system to add,search,view and update books record
+  
 When:
 
    To reduce the manual work and save time
+   
 Where:
      
-    At a place where there is a collection of different things in one place
+   At a place where there is a collection of different things in one place
+   
 How:
 
    To build a system with all features required
