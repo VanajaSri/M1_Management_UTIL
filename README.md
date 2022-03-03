@@ -1,9 +1,21 @@
-# VanajaSri-M1_Management_UTIL
+# **VanajaSri-M1_Management_UTIL**
 
-![image](https://user-images.githubusercontent.com/98846705/154530453-373a93f6-a287-4bde-8e94-c3648c28ef8d.png)    ![image](https://user-images.githubusercontent.com/98846705/154530496-3112cf70-1dd6-4378-8aef-11073b85bc7e.png)
+# Code Quality
+![image](https://user-images.githubusercontent.com/98846705/156636012-40012e57-c0a5-4cf1-bef0-ddbcdb7b0e54.png)
 
+ https://api.codiga.io/project/31377/score/svg
 
-[![Cppcheck](https://github.com/VanajaSri/M1_Management_UTIL/actions/workflows/static_check.yml/badge.svg)](https://github.com/VanajaSri/M1_Management_UTIL/actions/workflows/static_check.yml)     [![Build-linux](https://github.com/VanajaSri/M1_Management_UTIL/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/VanajaSri/M1_Management_UTIL/actions/workflows/Build-linux.yml)
+# Code Grade
+![image](https://user-images.githubusercontent.com/98846705/154530496-3112cf70-1dd6-4378-8aef-11073b85bc7e.png)
+
+https://api.codiga.io/project/31377/status/svg
+
+# Cpp Check
+[![Cppcheck](https://github.com/VanajaSri/M1_Management_UTIL/actions/workflows/static_check.yml/badge.svg)](https://github.com/VanajaSri/M1_Management_UTIL/actions/workflows/static_check.yml)    
+
+# Build - linux
+
+[![Build-linux](https://github.com/VanajaSri/M1_Management_UTIL/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/VanajaSri/M1_Management_UTIL/actions/workflows/Build-linux.yml)
 
 
 
