@@ -11,10 +11,10 @@
 
   Strengths
         
-• Curiosity and need to learn
-• Respected and valued by users
-• Collections
-• Drive to understand the perspective of user     
+ • Curiosity and need to learn
+ • Respected and valued by users
+ • Collections
+ • Drive to understand the perspective of user     
 
 
   Weaknesses
