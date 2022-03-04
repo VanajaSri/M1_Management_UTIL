@@ -30,5 +30,6 @@ https://api.codiga.io/project/31377/status/svg
  2_Architecture  | Documents specifying dwsign details
  3_Implementation | All code and documentation
  4_TestPlanAndOutput| Documentation with test plan and procedures
- 
+ 5_Report | Complete documentation specifying about the project
+ 6_ImagesAnd Videos | Screenshots of the code
 
