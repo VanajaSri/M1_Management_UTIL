@@ -17,8 +17,9 @@ https://api.codiga.io/project/31377/status/svg
 
 [![Build-linux](https://github.com/VanajaSri/M1_Management_UTIL/actions/workflows/Build-linux.yml/badge.svg)](https://github.com/VanajaSri/M1_Management_UTIL/actions/workflows/Build-linux.yml)
 
+# Work Flow
 
-
+![image](https://user-images.githubusercontent.com/98846705/156723715-e6718fe1-9e67-4efb-987e-55086b7e03b4.png)
 
 
 # **Folder Structure**
